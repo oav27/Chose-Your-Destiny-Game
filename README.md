@@ -4,7 +4,7 @@ Project created in Python for a freshman high school AP CSP course. A simple "Yo
 
 ---
 
-### **Warning! This game was created my freshman year in HIGH SCHOOL! I chose to keep it as I created it over 5+ years ago, to show the progress I have made in my coding skills and knowledge since then. I also left the orignial "Written Response" file that I wrote for submission to my AP course in this repo. Take a look to see some of my findings and breakdowns in addition to the writings below. Thank you and have fun!**
+### **Warning! This game was created my freshman year in HIGH SCHOOL! I chose to keep it as I created it over 5+ years ago, to show the progress I have made in my coding skills and knowledge since then. I also left the orignial "Written Response" file that I wrote for submission to my AP course in this repo. Take a look to see some of my findings and breakdowns in addition to the writings below. Thank you and HAVE FUN!**
 
 ---
 
