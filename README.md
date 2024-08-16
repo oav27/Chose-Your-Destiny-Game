@@ -4,7 +4,9 @@ Project created in Python for a freshman high school AP CSP course. A simple "Yo
 
 ---
 
-### **Warning! This game was created my freshman year in HIGH SCHOOL! I chose to keep it as I created it over 5+ years ago, to show the progress I have made in my coding skills and knowledge since then. I also left the orignial "Written Response" file that I wrote for submission to my AP course in this repo. Take a look to see some of my findings and breakdowns in addition to the writings below. Thank you and HAVE FUN!**
+### **Warning!** 
+
+This game was created my freshman year in HIGH SCHOOL! I chose to keep it as I created it over 5+ years ago, to show the progress I have made in my coding skills and knowledge since then. I also left the orignial "Written Response" file that I wrote for submission to my AP course in this repo. Take a look to see some of my findings and breakdowns in addition to the writings below. Thank you and HAVE FUN!
 
 ---
 
@@ -27,9 +29,9 @@ In order to envision this and stay organized, I literally drew out all the paths
 
 ### Actual Coding:
 
-During the actual coding process, it was very straight forward. I was happy that while creating this project I was able to use what I learned of Python, and code in general (if statements, conditionals, variables, functions, etc.) since 
+During the actual coding process, it was very straight forward. I was happy that while creating this project I was able to use what I learned of Python, and code in general (if statements, conditionals, variables, functions, etc.) since  
 
-### this was my first coding language and project ever!!
+***this was my first coding language and project ever!!***
 
 Of course I encountered some difficulties, which I will talk about later. I also was learning the magic and power of testing and debugging one's code. I remember that after every function, or path, that I would code, I would stop to test the code. I made sure I didn't make any syntactical errors, or that I had strewn the functions together in the right order. I also would test out that the decisions made would correctly correlate with points being added, or lives being deducted, and that the game would correctly keep score of them.
 
