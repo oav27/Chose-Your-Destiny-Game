@@ -1,4 +1,4 @@
-# Python Freshman Adventure Game
+# Chose Your Destiny Adventure Game
 
 Project created in Python for a freshman high school AP CSP course. A simple "You-Choose" adventure game!
 
